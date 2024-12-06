@@ -9,9 +9,7 @@
 
  
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+ 
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -27,7 +25,7 @@
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://www.instagram.com/coding_export81/" target="_blank"><img src="https://img.freepik.com/free-psd/social-media-logo-design_23-2151320963.jpg?uid=R148197509&ga=GA1.1.1986989687.1731091105&semt=ais_hybrid" /></a>
+<a href="https://www.instagram.com/coding_export81/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMYHezHnec-zoiAx93QkFNse4QfYag0AhQyunwLF4oa_fM6w42lAUcJMTiaIIq91GaVc&usqp=CAU" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
