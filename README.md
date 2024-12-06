@@ -25,7 +25,7 @@
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://www.instagram.com/coding_export81/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMYHezHnec-zoiAx93QkFNse4QfYag0AhQyunwLF4oa_fM6w42lAUcJMTiaIIq91GaVc&usqp=CAU" /></a>
+<a href="https://www.instagram.com/coding_export81/" target="_blank"><img style="width: 100px; border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMYHezHnec-zoiAx93QkFNse4QfYag0AhQyunwLF4oa_fM6w42lAUcJMTiaIIq91GaVc&usqp=CAU" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
